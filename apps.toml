@@ -163,6 +163,13 @@ level = 7
 state = "working"
 url = "https://github.com/YunoHost-Apps/antigen_ynh"
 
+[apk_builder]
+added_date = 1773849600 # 2026/03/17
+branch = "main"
+category = "dev"
+state = "inprogress"
+url = "https://github.com/DanversKara/apk_builder_ynh"
+
 [appflowy]
 added_date = 1736881754 # 2025/01/14
 antifeatures = [ "non-free-network" ]
